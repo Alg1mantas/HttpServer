@@ -41,7 +41,7 @@ In the future, I plan to implement the following features and enhancements:
 4. Run the server:
 
     ```bash
-    sudo ./httpsever
+    sudo ./httpserver
     ```
 
 5. Open your web browser and go to `http://127.0.0.1`.
