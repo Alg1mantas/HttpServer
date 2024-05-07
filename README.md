@@ -1,6 +1,6 @@
 # Simple C HTTP Server
 
-This is a simple HTTP server implemented in C. The purpose of this project is to learn the fundamentals of how network programming works using sockets in C.
+This is a simple HTTP server implemented in C. The purpose of this project is to learn the fundamentals of how network programming works using sockets in C.Note: it only works on Linux!
 
 ![HttpServer](server.jpg)
 
