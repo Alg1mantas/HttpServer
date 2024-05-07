@@ -41,8 +41,13 @@ In the future, I plan to implement the following features and enhancements:
 4. Run the server:
 
     ```bash
-    ./httpsever
+    sudo ./httpsever
     ```
+
+5. Open your web browser and go to `http://127.0.0.1`.
+
+6. You will see the server's welcoming message displayed in your browser, as shown above.
+
 
 ## Feedback and Contributions
 
